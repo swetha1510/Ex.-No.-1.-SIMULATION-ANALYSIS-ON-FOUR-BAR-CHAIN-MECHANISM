@@ -53,10 +53,10 @@
 
 
 ## Output:
+![edm ex1](https://github.com/swetha1510/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120623583/ce6d6506-4871-40a7-8b78-59a8904a2914)
 
-
-### Name:
-### Register Number: 
+### Name: SWETHA P
+### Register Number: 212222100053
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
